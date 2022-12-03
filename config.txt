@@ -1,0 +1,5 @@
+[CONFIGURACOES]
+api_id = 298
+api_hash = 98fc1e32
+telefone = +55749
+delay = 10
